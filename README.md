@@ -9,7 +9,7 @@ Travelling towards the PC camera, the aim is to finally hit the 'w' key to win.
 - You don't hit the 'w' key before the counter goes to zero, you lose.
 - You hit 'q' key in between the game, you lose.
 
-The code uses simple motion capture techniques to detect movements from the instant the doll opens its eyes (red light). 
+The code uses a simple motion detection technique to detect movements from the instant the doll opens its eyes (red light). 
 It can be played with multiple players, too. Anyone moves during red light, the game gets over.
 
 Find demo here: https://youtu.be/WMmskDZWDMI 
